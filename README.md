@@ -35,22 +35,22 @@ const IPAddress subnet(`255, 255, 255, 0`);
 
 const char* host = `"10.101.100.24"`; //This is the Computer receiving the OSC Messages
 
-const char *oscaddress = "/go/RM5B1"; // Button 1
+const char *oscaddress = `"/go/RM5B1"`; // Button 1
 
 
-const char *oscaddress2 = "/go/RM5B2"; // Button 2
+const char *oscaddress2 = `"/go/RM5B2"`; // Button 2
 
 
-const char *oscaddress3 = "/go/RM5B3"; // Button 3
+const char *oscaddress3 = `"/go/RM5B3"`; // Button 3
 
 
-const char *oscaddress4 = "/go/RM5B4"; // Button 4
+const char *oscaddress4 = `"/go/RM5B4"`; // Button 4
 
 
-const char *oscaddress5 = "/go/RM5B5"; // Button 5
+const char *oscaddress5 = `"/go/RM5B5"`; // Button 5
 
 
-const char *oscaddress6 = "/go/RM5B6"; // Button 6
+const char *oscaddress6 = `"/go/RM5B6"`; // Button 6
 
 
 
