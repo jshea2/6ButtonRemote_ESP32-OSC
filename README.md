@@ -66,6 +66,7 @@ const char *oscaddress6 = `"/go/RM5B6"`; // Button 6
 <img src="https://github.com/jshea2/6ButtonRemote_ESP32-OSC/assets/70780576/b650f7ce-3f78-41d3-a7cf-540f8f8a089b" width="200">
 <img src="https://github.com/jshea2/6ButtonRemote_ESP32-OSC/assets/70780576/a8518ef5-ecdd-479d-a4b4-29dc72a8030c" width="200">
 
+<br>
 
 This project was designed for USC School of Dramatic Arts production, [Ghosts of USC: A Historical Immersive Haunt](https://dramaticarts.usc.edu/ghosts-of-usc-a-historical-immersive-haunt/). There were 5 of these units for each room to trigger 6 cues. Stage Management discretly used the remotes to trigger QLab. This system triggered sound and lighting cues.
 
