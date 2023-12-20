@@ -68,5 +68,5 @@ const char *oscaddress6 = `"/go/RM5B6"`; // Button 6
 
 #
 
-This project was designed for USC School of Dramatic Arts production, [Ghosts of USC: A Historical Immersive Haunt](https://dramaticarts.usc.edu/ghosts-of-usc-a-historical-immersive-haunt/). There were 5 of these units for each room to trigger 6 cues. Stage Management discretly used the remotes to trigger QLab. This system triggered sound and lighting cues.
+This project was designed for USC School of Dramatic Arts production, [Ghosts of USC: A Historical Immersive Haunt](https://dramaticarts.usc.edu/ghosts-of-usc-a-historical-immersive-haunt/). There were 5 of these units for each room to trigger 6 cues each. Stage Management discretly used the remotes to trigger QLab. This system triggered sound and lighting cues.
 
